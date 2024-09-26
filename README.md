@@ -18,6 +18,8 @@
 ![Cypher](https://img.shields.io/badge/Cypher-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
